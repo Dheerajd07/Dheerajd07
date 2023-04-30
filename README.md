@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dheerajd07
-- 👀 I’m interested in finding critical solutions on the modern problems using my developmnet skills. 
-- 🌱 I’m currently learning Python. 
+- 👋 Hi, I’m Dheeraj Verma  
+- 👀 I’m interested in finding critical solutions on the modern problems. 
+- 🌱 A tech savvy loves to explore the universe of codes
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning. 
 - 📫 How to reach me: Simply use my git hub user name @dheerajd07
 
